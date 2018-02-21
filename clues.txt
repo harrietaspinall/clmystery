@@ -1,1 +1,0 @@
-step1:You need to search for lines in the file marked with the word 'CLUE'. Use the `grep` command to do this.
